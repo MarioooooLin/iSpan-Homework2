@@ -1,0 +1,60 @@
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe.config
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.pdb
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.AssemblyReference.cache
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.SuggestedBindingRedirects.cache
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Menu.resources
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.FormOrderList.resources
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Properties.Resources.resources
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.GenerateResource.cache
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.CoreCompileInputs.cache
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.exe
+D:\資展全端班\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.pdb
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe.config
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.pdb
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.AssemblyReference.cache
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.SuggestedBindingRedirects.cache
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Menu.resources
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.FormOrderList.resources
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Properties.Resources.resources
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.GenerateResource.cache
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.CoreCompileInputs.cache
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.exe
+D:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.pdb
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe.config
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.pdb
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.AssemblyReference.cache
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.SuggestedBindingRedirects.cache
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Menu.resources
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.FormOrderList.resources
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Properties.Resources.resources
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.GenerateResource.cache
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.CoreCompileInputs.cache
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.exe
+E:\iSpan\C#\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.pdb
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe.config
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.pdb
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.AssemblyReference.cache
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Menu.resources
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.FormOrderList.resources
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Properties.Resources.resources
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.GenerateResource.cache
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.exe
+C:\Users\iSpan\Desktop\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.pdb
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe.config
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.exe
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\bin\Debug\Homework 2-Menu.pdb
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.AssemblyReference.cache
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Menu.resources
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.FormOrderList.resources
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework_2_Menu.Properties.Resources.resources
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.GenerateResource.cache
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.exe
+C:\Users\iSpan\source\Homework 2-Menu\Homework 2-Menu\obj\Debug\Homework 2-Menu.pdb
